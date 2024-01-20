@@ -9,3 +9,6 @@ GPTStream is a personal project I made to show an example of how a **real time r
 I had a lot of trouble finding how to make a real time stream work, so I've made sure to add a lot of comments in the code files to make it easy for a beginner to understand how to use and modify it.
 
 If this helped you, I'd appreciate a star!
+
+## Example Use
+![Example](https://i.ibb.co/gzd605p/ezgif-3-9b0189c441.gif)
