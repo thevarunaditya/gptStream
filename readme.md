@@ -10,5 +10,4 @@ I had a lot of trouble finding how to make a real time stream work, so I've made
 
 If this helped you, I'd appreciate a star!
 
-## Example Use
-![Example](https://i.ibb.co/gzd605p/ezgif-3-9b0189c441.gif)
+### [Example Usage](https://i.ibb.co/gzd605p/ezgif-3-9b0189c441.gif)
