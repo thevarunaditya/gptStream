@@ -10,12 +10,12 @@ body {
     justify-content: center;
     align-items: center;
     height: 92vh;
-    scale:2;
     overflow: hidden;
 }
 
 form {
     display: inline-block;
+    scale: 1.5625;
 }
 
 input[type=text] {
@@ -40,10 +40,12 @@ button[type=submit]:hover {
 }
 
 h1 {
-    margin-bottom: 5px;
+    margin-bottom: 11px;
     margin-top: 0;
+    font-size: 3.125em;
 }
 
 #chat-log {
-    margin-top: 5px;
+    margin-top: 15px;
+    font-size: 25px;
 }
