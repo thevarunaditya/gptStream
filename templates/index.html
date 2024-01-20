@@ -1,0 +1,18 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Flask GPT Stream</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  </head>
+  <body>
+    <h1>Flask GPT Stream</h1>
+
+    <form id="chat-form">
+      <input type="text" id="message" name="message" placeholder="Enter your query"><button type="submit">Send</button>
+    </form>
+
+    <div id="chat-log"></div>
+
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+  </body>
+</html>

@@ -1,0 +1,49 @@
+/* CSS IS NOT NECESSARY */
+/* I JUST PREFER MY SITE TO LOOK NICE */
+/* THIS IS A PERSONAL PREFERENCE */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 92vh;
+    scale:2;
+    overflow: hidden;
+}
+
+form {
+    display: inline-block;
+}
+
+input[type=text] {
+    border: 2px solid #000000;
+    border-radius: 5px 0px 0px 5px;
+    padding: 5px;
+}
+
+button[type=submit] {
+    border: 2px solid #000000;
+    border-left: none;
+    border-radius: 0px 5px 5px 0px;
+    background-color: #fff;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+button[type=submit]:hover {
+    background-color: #000000;
+    color: #fff;
+}
+
+h1 {
+    margin-bottom: 5px;
+    margin-top: 0;
+}
+
+#chat-log {
+    margin-top: 5px;
+}
